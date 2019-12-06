@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.runestrife.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\1bg05\\Desktop\\School\\Semester 3\\Game 312 Game Engines\\TowerDefenseVR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Runestrife [Testing]"
+        }
+      }
+    }
+  ]
+}
